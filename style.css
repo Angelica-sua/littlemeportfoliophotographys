@@ -1,0 +1,18 @@
+body{
+    background-image:url(images/suaj.jpg);
+}
+
+h1{
+    color:darkblue;
+}
+
+p{
+    color:blue;
+}
+   
+img{
+    width: 150px;
+    padding: 5px;
+    border-radius: 4px;
+}
+
